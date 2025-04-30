@@ -11,6 +11,12 @@
   <button class="btn btn-success">Success</button>
   <button class="btn btn-warning">Warning</button>
   <button class="btn btn-error">Error</button>
+  <div class="bg">BG</div>
 </main>
 
+<style lang="scss">
+.bg {
+  background-color: $bg-primary;
+}
+</style>
 
