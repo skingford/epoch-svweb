@@ -1,5 +1,7 @@
 # epoch-svweb
 
+* [https://daisyui.com/components/table/](https://daisyui.com/components/table/)
+
 ## commitlint
 
 * feat: 新功能
