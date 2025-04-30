@@ -7,6 +7,9 @@ const name = "Home"
 <main>
   <div>Home {name}</div>
   <p>The current page is: {$location}</p>
+  <div class="tooltip" data-tip="hello">
+    <button class="btn">Hover me</button>
+  </div>
 </main>
 
 
