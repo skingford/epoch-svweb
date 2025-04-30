@@ -1,6 +1,10 @@
 # epoch-svweb
 
-* [https://daisyui.com/components/table/](https://daisyui.com/components/table/)
+## 文档
+
+* [vite](https://cn.vite.dev/guide/features#disabling-css-injection-into-the-page)
+* [svelte](https://svelte.dev/docs/svelte/getting-started)
+* [daisyui](https://daisyui.com/components/table/)
 
 ## commitlint
 

@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "daisyui": "^5.0.28",
+    "svelte-spa-router": "^4.0.1",
     "tailwindcss": "^4.1.4"
   }
 }
